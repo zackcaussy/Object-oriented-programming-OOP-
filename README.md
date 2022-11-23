@@ -1,4 +1,4 @@
-# Object-Oriented-Programming-OOP - Programmation Orientée Objet - ex. Java
+# Object-Oriented-Programming (OOP) - Programmation Orientée Objet (POO) - ex. Java
 
 
 ## Définition - Que signifie "objet" en Java ?
